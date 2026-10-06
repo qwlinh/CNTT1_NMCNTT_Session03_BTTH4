@@ -5,7 +5,7 @@ Khi bạn mở đồng thời 20 tab Chrome và phần mềm VS Code trên một
 %RAM (Gần hoặc đạt 100%): 20 tab Chrome nổi tiếng là "kẻ ngốn RAM" vì mỗi tab chạy một tiến trình độc lập, kết hợp với môi trường lập trình VS Code khiến dung lượng 8GB bị cạn kiệt nhanh chóng.
 
 %CPU (Tăng cao đột biến hoặc đạt ngưỡng giới hạn): Khi RAM không còn đủ chỗ chứa, CPU phải liên tục xử lý các tác vụ dọn dẹp bộ nhớ, đồng thời gánh thêm công việc điều phối dữ liệu qua lại do thiếu không gian đệm.
-
+ 
 2. Sự khác biệt về vai trò giữa RAM và Storage trong tình huống này
 RAM (Ví von như "Bàn làm việc"): Là bộ nhớ tạm thời, tốc độ cực cao, nơi CPU trực tiếp lấy dữ liệu để đọc/ghi các ứng dụng đang chạy ngay lúc đó (các tab Chrome đang mở, mã nguồn đang gõ trong VS Code). Khi "bàn làm việc" (8GB RAM) đầy ắp, bạn không còn chỗ để bày biện thêm tài liệu.
 
